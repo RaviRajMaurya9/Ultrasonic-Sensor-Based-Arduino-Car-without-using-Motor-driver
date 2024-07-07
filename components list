@@ -1,0 +1,21 @@
+### Components list###
+
+1) Ultrasonic Sensor: Used to detect obstacles in the path of the car.
+
+Example: HC-SR04 Ultrasonic Sensor
+2) Microcontroller: Processes the data from the ultrasonic sensor and controls the relay.
+
+Example: Arduino Uno or any other compatible microcontroller
+3) Relay : Acts as a switch to control the power supply to the car's motor based on the signal from the microcontroller.
+
+Example: 5V Relay Module
+4) Power Supply: Provides the necessary power to the components.
+
+Example: Battery Pack (e.g., 9V or 12V depending on your motor and relay specifications)
+5) DC Motor: Drives the car. This motor will be controlled by the relay.
+
+Example: Generic DC Motor
+6) Wheels and Chassis: The structure of the car.
+
+Example: 2-wheel or 4-wheel chassis
+7) Connecting Wires and Breadboard: For wiring the components together.
